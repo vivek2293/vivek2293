@@ -1,12 +1,129 @@
-Hi,  
-This is Vivek Kumar.
+<h1 align="center"> Hi 👋, I'm Vivek Kumar </h1>
+<br>
 
-Currently, I am a sophomore in Computer Science and Engineering at The Indian Institute of Information Technology, Surat.
+<p align="center">
+<img
+    src="./assets/Programmer-Vector-Illustration.jpg"
+    alt="Programmer"
+    width="30%"
+    height="30%"
+/>
+</p>
+<h3 align="center"><i>Creative, open-minded, friendly and ambitious web developer </i></h3>
 
-I am a MERN Developer and i do Competitive Programming in my free time to nourish my coding skills and optimize the functioning of Computers in executing a particular task.
+<h2 align="left"> 👨‍💻 About Me</h2>
 
+<ul>
+    <li>😇 I’m sophomore at Indian Institute of Information Technology, Surat pursuing B.Tech in Computer Science and Engineering.</li>
+    <li>👨‍💻 I'm a <b>MERN Stack</b> Developer currently exploring the field of Machine Learning.</li>
+    <li>🔭 Looking to collaborate on building Full Stack applications.</li>
+    <li>📫 How to reach me <a href="mailto:vivek22935@gmail.com">vivek22935@gmail.com</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/vivek-kumar-75025a220/" target="_blank"><b>Linked</b> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Vivek-Kumar-LinkedIn" height="20"></a></li>
+</ul>
+<br>
 
-If you want any collaboration or help, feel free to reach me on:  
+<h2 align="left"> 🛠 Languages and Tools</h2>
+<p align="left">
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"
+      alt="c++"
+      width="50"
+      height="50"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="50"
+      height="50"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="50"
+      height="50"
+    />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="45"
+      height="50"
+    />
+  </a>
+  &nbsp;
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="50"
+      height="50"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="70"
+      height="50"
+    />
+  </a>
+  &nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="./assets/express.jpg"
+      alt="express"
+      width="90"
+      height="30"
+    />
+  </a>
+  &nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="50"
+      height="50"
+    />
+  </a>
+  &nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="70"
+      height="50"
+    />
+  </a>
+  &nbsp;
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
+      width="50"
+      height="50"
+    />
+  </a>
+  &nbsp;
+</p>
 
-My Email Id: vivek22935@gmail.com  
-[Linkedin](https://www.linkedin.com/in/vivek-kumar-75025a220/) 
+<hr>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek2293&show_icons=true&locale=en&layout=compact&theme=dark" alt="vivek2293" />
+<br>
+
+<h2 align="left"> 🏆 Github Stats </h2>
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=vivek2293&theme=dark" width="45%" align="left" alt="streak-stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=vivek2293&show_icons=true&theme=dark" width="45%" alt="stats">
