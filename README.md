@@ -1,15 +1,16 @@
 <h1 align="center"> Hi 👋, I'm Vivek Kumar </h1>
 <br>
 
+
 <p align="center">
-<img
-    src="./assets/Programmer-Vector-Illustration.jpg"
-    alt="Programmer"
-    width="30%"
-    height="30%"
-/>
+<img 
+     src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1669908405~exp=1669909005~hmac=b176b02041136586faf45170f68dd98e5444f92e9782f8afc99c903477cbec77"
+     width="35%"
+     height="35%"
+     />
 </p>
 <h3 align="center"><i>Creative, open-minded, friendly and ambitious web developer </i></h3>
+
 
 <h2 align="left"> 👨‍💻 About Me</h2>
 
@@ -20,6 +21,7 @@
     <li>📫 How to reach me <a href="mailto:vivek22935@gmail.com">vivek22935@gmail.com</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/vivek-kumar-75025a220/" target="_blank"><b>Linked</b> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Vivek-Kumar-LinkedIn" height="20"></a></li>
 </ul>
 <br>
+
 
 <h2 align="left"> 🛠 Languages and Tools</h2>
 <p align="left">
@@ -83,9 +85,9 @@
   &nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="./assets/express.jpg"
+      src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png"
       alt="express"
-      width="90"
+      width="75"
       height="30"
     />
   </a>
