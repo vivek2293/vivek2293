@@ -122,7 +122,6 @@
 </p>
 
 <hr>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek2293&show_icons=true&locale=en&layout=compact&theme=dark" alt="vivek2293" />
 <br>
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek2293&show_icons=true&locale=en&layout=compact&theme=dark" alt="vivek2293" />
 <br>
