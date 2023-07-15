@@ -125,8 +125,4 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek2293&show_icons=true&locale=en&layout=compact&theme=dark" alt="vivek2293" />
 <br>
 
-<h2 align="left"> 🏆 Github Stats </h2>
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=vivek2293&theme=dark" width="45%" align="left" alt="streak-stats">
-<img  src="https://github-readme-stats.vercel.app/api?username=vivek2293&show_icons=true&theme=dark" width="45%" alt="stats">
 <br>
