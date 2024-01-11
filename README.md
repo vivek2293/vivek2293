@@ -5,23 +5,22 @@
 <p align="center">
 <img 
      src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1669908405~exp=1669909005~hmac=b176b02041136586faf45170f68dd98e5444f92e9782f8afc99c903477cbec77"
-     width="55%"
+     width="60%"
      height="45%"
      />
 </p>
 <h3 align="center"><i>Creative, open-minded, friendly and ambitious web developer </i></h3>
 
 
-<h2 align="left"> 👨‍💻 About Me</h2>
+<h2 align="left"> 👨‍🎓 About Me</h2>
 
-<ul>
-    <li>😇 I’m sophomore at Indian Institute of Information Technology, Surat pursuing B.Tech in Computer Science and Engineering.</li>
-    <li>👨‍💻 I'm a <b>MERN Stack</b> Developer currently exploring the field of Machine Learning.</li>
-    <li>🔭 Looking to collaborate on building Full Stack applications.</li>
-    <li>📫 How to reach me <a href="mailto:vivek22935@gmail.com">vivek22935@gmail.com</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/vivek-kumar-75025a220/" target="_blank"><b>Linked</b> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Vivek-Kumar-LinkedIn" height="20"></a></li>
-</ul>
+- 🎓 I’m pre-final year student at Indian Institute of Information Technology, Surat pursuing B.Tech in Computer Science and Engineering.
+
+- 👨‍💻 I'm a <b>MERN Stack</b> Developer currently exploring the field of <b>Automation and Machine Learning.</b>
+
+- 🔭 Looking to collaborate on crafting visionary Full Stack apps and advancing ML.
+
 <br>
-
 
 <h2 align="left"> 🛠 Languages and Tools</h2>
 <p align="left">
@@ -115,7 +114,7 @@
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
       width="50"
-      height="50"
+      height="40"
     />
   </a>
   &nbsp;
@@ -125,3 +124,12 @@
 <br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek2293&show_icons=true&locale=en&layout=compact&theme=dark" alt="vivek2293" />
 <br>
+
+<h2 align="left">📫 Let's Connect </h2>
+<div align="center">
+
+[![Linkedin](https://img.shields.io/badge/-Vivek_Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-k42/)
+[![Gmail](https://img.shields.io/badge/-Vivek_Kumar-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vivek22935@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Vivek_Kumar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Vivek2943)
+</div>
+<br />
