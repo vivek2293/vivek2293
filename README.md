@@ -133,3 +133,7 @@
 [![Twitter](https://img.shields.io/badge/-Vivek_Kumar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Vivek2943)
 </div>
 <br />
+
+<h2 align="left">📊 Metrics </h2>
+
+![View Count](https://komarev.com/ghpvc/?username=vivek2293)
