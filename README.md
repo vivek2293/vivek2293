@@ -14,11 +14,11 @@
 
 <h2 align="left"> 👨‍🎓 About Me</h2>
 
-- 🎓 I’m pre-final year student at Indian Institute of Information Technology, Surat pursuing B.Tech in Computer Science and Engineering.
+- 🎓 I’m final year undergrad at Indian Institute of Information Technology, Surat pursuing B.Tech in Computer Science and Engineering.
 
-- 👨‍💻 I'm a <b>MERN Stack</b> Developer currently exploring the field of <b>Automation and Machine Learning.</b>
+- 👨‍💻 I’m an avid, passionate Full Stack Developer with expertise in MERN Stack, Search Engine Optimization (SEO), Performance Tuning, Security, Data Analysis, and Data Visualization.
 
-- 🔭 Looking to collaborate on crafting visionary Full Stack apps and advancing ML.
+- 🔭 I excel in problem-solving and have a keen eye for optimizing performance and enhancing security measures. If you’re interested in working together, feel free to reach out.
 
 <br>
 
