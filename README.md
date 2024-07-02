@@ -9,7 +9,7 @@
      height="45%"
      />
 </p>
-<h3 align="center"><i>Creative, open-minded, friendly and ambitious web developer </i></h3>
+<h3 align="center"><i>Creative, open-minded, friendly and ambitious web developer. <br> Check out my <a href="https://vivekkumar.me/">portfolio</a> to see my work!</i></h3>
 
 
 <h2 align="left"> 👨‍🎓 About Me</h2>
@@ -130,7 +130,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-Vivek_Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-k42/)
 [![Gmail](https://img.shields.io/badge/-Vivek_Kumar-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vivek22935@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Vivek_Kumar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Vivek2943)
 </div>
 <br />
 
