@@ -6,7 +6,6 @@
 <img 
      src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1669908405~exp=1669909005~hmac=b176b02041136586faf45170f68dd98e5444f92e9782f8afc99c903477cbec77"
      width="60%"
-     height="45%"
      />
 </p>
 <h3 align="center"><i>Creative, open-minded, friendly and ambitious web developer. <br> Check out my <a href="https://vivekkumar.me/">portfolio</a> to see my work!</i></h3>
